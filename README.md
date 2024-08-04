@@ -1,0 +1,3 @@
+* Conducted exploratory data analysis in R programming and Microsoft Excel on multiple datasets to investigate the impact of food and feed on the environment over a period of 48 years and represented analysis by making use of dashboards.
+* Collaborated to create an interactive website that showcased the project's findings and visualizations implying various data visualization tools such as Tableau, Data Wrapper, Plotly, and R-Shiny.
+* Implemented statistical models and machine learning algorithms in Python to predict future trends in food and feed production, consumption, and environmental impact.
